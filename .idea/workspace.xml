@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41182a7a-9eb3-46f4-bcd1-01ec77e358ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise3_Assertion_in_JUnit/settingupjunit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise3_Assertion_in_JUnit/settingupjunit/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise3_Assertion_in_JUnit/settingupjunit/src/test/java/com/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise3_Assertion_in_JUnit/settingupjunit/target/classes/com/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise3_Assertion_in_JUnit/settingupjunit/target/test-classes/com/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise4_AAA_Pattern_JUnit/settingupjunit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise4_AAA_Pattern_JUnit/settingupjunit/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise4_AAA_Pattern_JUnit/settingupjunit/src/test/java/com/example/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise4_AAA_Pattern_JUnit/settingupjunit/target/classes/com/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/1. JUnit_Basic Testing Exercises/Exercise4_AAA_Pattern_JUnit/settingupjunit/target/test-classes/com/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise1_Mocking_and_Stubbing/settingupjunit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise1_Mocking_and_Stubbing/settingupjunit/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise1_Mocking_and_Stubbing/settingupjunit/src/main/java/com/example/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise1_Mocking_and_Stubbing/settingupjunit/src/main/java/com/example/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise1_Mocking_and_Stubbing/settingupjunit/src/test/java/com/example/MyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/src/main/java/com/example/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/src/main/java/com/example/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/src/test/java/com/example/MyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/classes/com/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/classes/com/example/ExternalApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/classes/com/example/MyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/test-classes/com/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/test-classes/com/example/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/test-classes/com/example/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise2_Verifying_Interaction/settingupjunit/target/test-classes/com/example/MyServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/src/main/java/com/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/src/main/java/com/example/LoggingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/src/test/java/com/example/MyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/classes/com/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/classes/com/example/ExternalApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/classes/com/example/MyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/test-classes/com/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/test-classes/com/example/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/test-classes/com/example/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/6. SL4J Logging exercises/Exercise1_Logging_Error_Messages_and_Warning_Levels/settingupjunit/target/test-classes/com/example/MyServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2z69iFsOzZRO6dNqIJGjSSPlDvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LoggingExample.executor": "Run",
+    "JUnit.AppTest (1).executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.MyServiceTest (1).executor": "Run",
+    "JUnit.MyServiceTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Digital-Nurture-4.0-JavaFSE/Week2/6. SL4J Logging exercises"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Digital-Nurture-4.0-JavaFSE\Week2\6. SL4J Logging exercises" />
+      <recent name="F:\Digital-Nurture-4.0-JavaFSE\Week2\3. Mockito exercises" />
+      <recent name="F:\Digital-Nurture-4.0-JavaFSE\Week2\1. JUnit_Basic Testing Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoggingExample">
+    <configuration name="LoggingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.LoggingExample" />
+      <module name="settingupjunit (5)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="settingupjunit (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="settingupjunit (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="settingupjunit (4)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.MyServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="settingupjunit (3)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.MyServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoggingExample" />
+        <item itemvalue="JUnit.MyServiceTest (1)" />
+        <item itemvalue="JUnit.MyServiceTest" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.AppTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41182a7a-9eb3-46f4-bcd1-01ec77e358ab" name="Changes" comment="" />
+      <created>1751040780618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751040780618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week2/3. Mockito exercises/Exercise1_Mocking_and_Stubbing/settingupjunit/src/main/java/com/example/MyService.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
